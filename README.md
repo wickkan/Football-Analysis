@@ -11,3 +11,5 @@ Conducted a detailed analysis of player statistics from the UEFA Champions Leagu
 UCL 21/22 Dataset: https://www.kaggle.com/datasets/azminetoushikwasi/ucl-202122-uefa-champions-league
 
 ### English Premier League
+
+Looking to conduct analysis of teams in preparation for the 24/25 EPL season
